@@ -11,6 +11,6 @@ package cube3d;
  */
 public class NewCube {
     public static void print(){
-    System.out.println("hello");
+    System.out.println("hello1245");
 }
 }
