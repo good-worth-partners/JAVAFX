@@ -10,5 +10,7 @@ package cube3d;
  * @author vikas
  */
 public class NewCube {
-    
+    public static void print(){
+    System.out.println("hello");
+}
 }
